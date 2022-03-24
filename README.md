@@ -1,1 +1,1 @@
-# odin-recipies
+A website made to practice HTML, CSS, and JS featuring various blueberry based recipes 
